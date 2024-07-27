@@ -1,2 +1,3 @@
-# Desafio Iguana Kathy Gomez
-desafio Iguana Front End 0012 Desafio Latam
+# Desafio Iguana
+Ejercicio desafio Iguana Bootcamp Front End 0012 Desafio Latam
+Puede visitar la página en [GitHub Pages]()
